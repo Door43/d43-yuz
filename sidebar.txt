@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yuz:home|Door43 (yuz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yuz|d43-yuz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yuz/archive/master.zip|d43-yuz.zip]]
+
+**Recent Changes**
+{{changes>ns = yuz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yuz|Ethnologue data]]
+
